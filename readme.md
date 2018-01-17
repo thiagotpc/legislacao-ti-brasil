@@ -29,7 +29,11 @@ Dispõe sobre a **criação do Comitê Gestor da Internet no Brasil - CGI.br**, 
 Regulamenta o processo de autorização de **registro de domínios .gov.br**
 
 [Portaria Nº 38, de 11 de Junho de 2012](https://www.governoeletronico.gov.br/documentos-e-arquivos/Portaria%20No%2038%20homologa%20Norma%20Complementar%20no%2015-redes%20sociais)
-Esta Portaria homologa a Norma Complementar nº 15/IN01/DSIC/GSIPR que estabelece as **Diretrizes para o uso seguro das redes sociais **na Administração Pública Federal (APF).
+Esta Portaria homologa a Norma Complementar nº 15/IN01/DSIC/GSIPR que estabelece as **Diretrizes para o uso seguro das redes sociais** na Administração Pública Federal (APF).
+
+#### Comércio Eletrônico
+[Decreto Nº 7.962, de 15 de março de 2013](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm) - 	
+Regulamenta a Lei no 8.078, de 11 de setembro de 1990, para dispor sobre a contratação no **comércio eletrônico**. Dispõe sobre a disponibilização em destaque de inforamções ao consumidor, como nome, CNPJ, endereço, etc.
 
 ### Acesso à Informação
 [Lei Nº 12.527/2011 - **LAI: A Lei de Acesso à Informação**](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
